@@ -25,3 +25,13 @@ A modern frontend job portal built with **React.js** featuring reusable componen
 ---
 
 ## 📂 Project Structure
+react-job-cards-ui/
+│── src/
+│ ├── components/
+│ ├── data/
+│ ├── App.jsx
+│ └── main.jsx
+│
+│── public/
+│── package.json
+│── README.md 
